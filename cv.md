@@ -28,7 +28,7 @@ Start programming in 2018. Novice frontend-developer with medical education. Con
  
 **Piskel Clone** (2019)  
 **Link:** https://velenaflower.github.io/piskel-clone/  
-**Position:** developer
+**Position:** developer  
 **Environment:** HTML, CSS, JavaScript, Webpack, Canvas API.
 
 **Youtube client** (2019)  
