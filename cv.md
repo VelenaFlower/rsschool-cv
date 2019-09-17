@@ -1,9 +1,11 @@
 ## Elena Yanchenko  
-   
+ 
+---
 **Telephone number:** +375445493653   
 **LinkedIn profile:**  https://www.linkedin.com/in/eyanchenko/   
 **Github:** https://github.com/VelenaFlower  
-**English:** pre-intermediate (A2).  
+**English:** pre-intermediate (A2).
+
 ---
 ### Summary of Qualifications 	
 Start programming in 2018. Novice frontend-developer with medical education. Confident knowledge of HTML, CSS, JavaScript.  
