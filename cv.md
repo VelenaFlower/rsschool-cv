@@ -20,7 +20,8 @@ Start programming in 2018. Novice frontend-developer with medical education. Con
 
 ---
 ### Professional Experience
-**Projects** 
+**Projects**  
+
 **Culture portal** (2019)  
 **Link:** [https://poetsofbelarus.netlify.com/ru/](https://poetsofbelarus.netlify.com/ru/)  
 **Position:** developer  
