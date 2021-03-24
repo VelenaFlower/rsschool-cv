@@ -68,7 +68,12 @@ body {
 }
 
 .links-aside {
+    padding: 0;
     list-style: none;
+}
+
+.list-skills {
+    padding-left: 15px;
 }
 
 .links-aside li,
@@ -115,6 +120,10 @@ body {
 .flex-item:nth-child(odd) {
     max-width: 260px;
     font-weight: bold;
+    text-align: center;
+}
+
+.about {
     text-align: center;
 }
 
