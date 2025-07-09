@@ -101,7 +101,8 @@ body {
     color: #a52a2a;
 }
 
-.text-summary {
+.text-summary,
+.text-kata {
     text-align: justify;
 }
 
@@ -129,10 +130,6 @@ body {
 .flex-item:nth-child(odd) {
     max-width: 260px;
     font-weight: bold;
-    text-align: center;
-}
-
-.about {
     text-align: center;
 }
 
