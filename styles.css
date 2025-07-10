@@ -5,6 +5,10 @@ body {
     font-family: Arial, sans-serif;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 .wrapper {
     display: flex;
     flex-direction: column;
@@ -14,7 +18,6 @@ body {
 }
 
 .header {
-    height: 125px;
     background-color: #333333;
 }
 
@@ -67,11 +70,16 @@ body {
     border-bottom: 1px solid #333333;
 }
 
-.links-aside {
+.links-aside,
+.links-nav {
     padding: 0;
     list-style: none;
 }
 
+.links-nav {
+    display: flex;
+    justify-content: space-around;
+}
 .list-skills {
     padding-left: 15px;
 }
@@ -81,18 +89,28 @@ body {
     margin-top: 15px;
 }
 
+.link-nav,
+.footer-link  {
+    text-decoration: none;
+    color: #DEDEDE;
+    transition: 0.3s;
+}
 .link-contact,
 .link-project {
     text-decoration: none;
     color: #333333;
+    transition: 0.3s;
 }
 
 .link-contact:hover,
-.link-project:hover {
+.link-project:hover,
+.link-nav:hover,
+.footer-link:hover {
     color: #a52a2a;
 }
 
-.text-summary {
+.text-summary,
+.text-kata {
     text-align: justify;
 }
 
@@ -123,11 +141,15 @@ body {
     text-align: center;
 }
 
-.about {
-    text-align: center;
-}
-
 .footer {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
     padding: 15px;
     background-color: #333333;
+    color: #DEDEDE;
+}
+
+.footer-img {
+    width: 100px;
 }
