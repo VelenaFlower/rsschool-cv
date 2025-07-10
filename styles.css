@@ -5,6 +5,10 @@ body {
     font-family: Arial, sans-serif;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 .wrapper {
     display: flex;
     flex-direction: column;
@@ -89,11 +93,13 @@ body {
 .footer-link  {
     text-decoration: none;
     color: #DEDEDE;
+    transition: 0.3s;
 }
 .link-contact,
 .link-project {
     text-decoration: none;
     color: #333333;
+    transition: 0.3s;
 }
 
 .link-contact:hover,
